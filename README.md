@@ -7,6 +7,7 @@ Interactive music game: Guess the year (e.g. 1995) in the Twitch chat and earn p
 
 (Unzip both files together to extract the .exe and the .txt music list).
 
+Trailer: https://youtu.be/bBHhYBm30k0?feature=shared
 ..................................................................................................
 
 Song Guessr on Twitch disponible GRATUITEMENT ! ✅
@@ -17,3 +18,5 @@ Song Guessr on Twitch disponible GRATUITEMENT ! ✅
 Jeu interactif musical. Devinez l’année (ex. « 1995 ») dans le chat Twitch et gagnez des points ! 🏆
 
 (Décompressez les deux fichiers ensemble pour extraire le fichier .exe et la liste musicale .txt.)
+
+Trailer: https://youtu.be/bBHhYBm30k0?feature=shared
